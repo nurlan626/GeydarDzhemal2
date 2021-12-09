@@ -1,0 +1,11 @@
+.article {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+.article-reference{
+    text-decoration: none;
+    color: green;
+}
